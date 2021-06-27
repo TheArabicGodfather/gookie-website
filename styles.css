@@ -1,0 +1,29 @@
+body{
+  background-color: #11182B;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+h1{
+  color: #93B0FF;
+  text-align: center;
+  font-size: 75px;
+}
+hr{
+  border-width: thick;
+  border-style: dotted none none none;
+  border-color: #EEE4EE;
+}
+pa{
+  color: #EEE4EE;
+}
+.top{
+  color: #F7E200;
+}
+th{
+  color: #BFBB88;
+}
+td{
+  color: #8A8657;
+}
+#paragraph{
+  text-align: center;
+}
